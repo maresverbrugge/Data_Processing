@@ -26,14 +26,41 @@ def extract_tvseries(dom):
     - Actors/actresses (comma separated if more than one)
     - Runtime (only a number!)
     """
+    # collect the 50 highest rated series
+    serie_containers = dom.find_all('div', class_ = 'lister-item mode-advanced')
 
-    # ADD YOUR CODE HERE TO EXTRACT THE ABOVE INFORMATION ABOUT THE
-    # HIGHEST RATED TV-SERIES
-    # NOTE: FOR THIS EXERCISE YOU ARE ALLOWED (BUT NOT REQUIRED) TO IGNORE
-    # UNICODE CHARACTERS AND SIMPLY LEAVE THEM OUT OF THE OUTPUT.
+    # make list of information for every serie
+    information_serie = []
+    
+    # make list for all 50 series
+    top_tv_series = []
 
-    return []   # REPLACE THIS LINE AS WELL AS APPROPRIATE
+    # loop trough series, obtaining information for every serie
+    for serie in serie_containers:
+        title = serie.h3.a.text
+        information_serie.append(title)
+        
+        rating = serie.strong.text
+        information_serie.append(rating)
+        
+        genre = (serie.find('span', class_= 'genre').text).strip()
+        information_serie.append(genre)
+        
+        # Dear corrector, I'm having trouble scraping the actors of the
+        # imdb website. I don't know what to do if the class doesn't have a "name"...
+        # I tried:
+        # actors1 = first_serie.find('p', class_= '').text
+        # print(actors1)
+        information_serie.append('X')
+        
+        runtime = (serie.find('span', class_= 'runtime').text)[0:2]
+        information_serie.append(runtime)
 
+        top_tv_series.append(information_serie)
+        information_serie = []
+
+    # return list that contains 50 lists with information for every serie
+    return top_tv_series
 
 def save_csv(outfile, tvseries):
     """
@@ -41,9 +68,7 @@ def save_csv(outfile, tvseries):
     """
     writer = csv.writer(outfile)
     writer.writerow(['Title', 'Rating', 'Genre', 'Actors', 'Runtime'])
-
-    # ADD SOME CODE OF YOURSELF HERE TO WRITE THE TV-SERIES TO DISK
-
+    writer.writerows(tvseries)
 
 def simple_get(url):
     """
