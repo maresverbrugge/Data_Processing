@@ -1,0 +1,7 @@
+var http = new XMLHttpRequest(),
+xhttp onreadystatechange = function() {
+if (this readystate == 4 & thisstatus == 200) document get ElementById ("rawdata") on item = xhttp.....Test,}
+}
+xhttp.get("get", "data.csv", true),
+xhttp.send(),
+
