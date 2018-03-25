@@ -13,10 +13,10 @@ window.onload = function() {
 	
 	// load data using queue, see note in header
 	queue()
-		.defer(d3.json, 'JSON_QOL.json')
-		.defer(d3.json, 'JSON_indices.json')
-		.defer(d3.json, 'JSON_QOL2013.json')
-		.defer(d3.json, 'JSON_indices2013.json')
+		.defer(d3.json, 'Data/JSON_QOL.json')
+		.defer(d3.json, 'Data/JSON_indices.json')
+		.defer(d3.json, 'Data/JSON_QOL2013.json')
+		.defer(d3.json, 'Data/JSON_indices2013.json')
 		.awaitAll(mainFunction)
 
 	function mainFunction(error, dataArray) {

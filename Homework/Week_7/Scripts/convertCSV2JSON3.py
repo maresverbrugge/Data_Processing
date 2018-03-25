@@ -2,8 +2,8 @@ import csv
 import json
 
 # open csv file and make json file
-csvfile = open('QOL.csv', 'r')
-jsonfile = open('JSON_QOL.json', 'w')
+csvfile = open('QOL2013.csv', 'r')
+jsonfile = open('JSON_QOL2013.json', 'w')
 
 fieldnames = ("Country", "QualityOfLifeIndex")
 reader = csv.DictReader(csvfile, fieldnames, delimiter=";")
