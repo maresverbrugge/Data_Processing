@@ -1,0 +1,302 @@
+{
+    "Switzerland": {
+        "Purchasing Power Index": "138.2",
+        "Safety Index": "72.42",
+        "Health Care Index": "71.98"
+    },
+    "Germany": {
+        "Purchasing Power Index": "118",
+        "Safety Index": "76.14",
+        "Health Care Index": "73.25"
+    },
+    "United States": {
+        "Purchasing Power Index": "138.38",
+        "Safety Index": "46.56",
+        "Health Care Index": "67.76"
+    },
+    "Sweden": {
+        "Purchasing Power Index": "108.25",
+        "Safety Index": "68.19",
+        "Health Care Index": "78.7"
+    },
+    "Canada": {
+        "Purchasing Power Index": "111.04",
+        "Safety Index": "65.02",
+        "Health Care Index": "72.79"
+    },
+    "United Arab Emirates": {
+        "Purchasing Power Index": "123.85",
+        "Safety Index": "81.99",
+        "Health Care Index": "59.92"
+    },
+    "Denmark": {
+        "Purchasing Power Index": "104.58",
+        "Safety Index": "69.26",
+        "Health Care Index": "86.13"
+    },
+    "Norway": {
+        "Purchasing Power Index": "97.29",
+        "Safety Index": "74.39",
+        "Health Care Index": "80.51"
+    },
+    "Qatar": {
+        "Purchasing Power Index": "140.57",
+        "Safety Index": "73.83",
+        "Health Care Index": "68.06"
+    },
+    "Austria": {
+        "Purchasing Power Index": "88.57",
+        "Safety Index": "69.56",
+        "Health Care Index": "81.45"
+    },
+    "Finland": {
+        "Purchasing Power Index": "95.65",
+        "Safety Index": "67.31",
+        "Health Care Index": "76.41"
+    },
+    "Australia": {
+        "Purchasing Power Index": "104.18",
+        "Safety Index": "55.56",
+        "Health Care Index": "75.56"
+    },
+    "New Zealand": {
+        "Purchasing Power Index": "85.55",
+        "Safety Index": "58.21",
+        "Health Care Index": "76.04"
+    },
+    "Netherlands": {
+        "Purchasing Power Index": "94.93",
+        "Safety Index": "62.47",
+        "Health Care Index": "66.8"
+    },
+    "Japan": {
+        "Purchasing Power Index": "87.68",
+        "Safety Index": "86.89",
+        "Health Care Index": "80.09"
+    },
+    "Estonia": {
+        "Purchasing Power Index": "54.02",
+        "Safety Index": "75.77",
+        "Health Care Index": "78.06"
+    },
+    "France": {
+        "Purchasing Power Index": "99.18",
+        "Safety Index": "48.87",
+        "Health Care Index": "85.62"
+    },
+    "Ireland": {
+        "Purchasing Power Index": "91.68",
+        "Safety Index": "55.05",
+        "Health Care Index": "49"
+    },
+    "United Kingdom": {
+        "Purchasing Power Index": "90.54",
+        "Safety Index": "60.22",
+        "Health Care Index": "71.28"
+    },
+    "Belgium": {
+        "Purchasing Power Index": "95.48",
+        "Safety Index": "57.05",
+        "Health Care Index": "81.48"
+    },
+    "Spain": {
+        "Purchasing Power Index": "83.67",
+        "Safety Index": "65.88",
+        "Health Care Index": "75.61"
+    },
+    "Saudi Arabia": {
+        "Purchasing Power Index": "116.1",
+        "Safety Index": "68.26",
+        "Health Care Index": "34.17"
+    },
+    "South Korea": {
+        "Purchasing Power Index": "95.57",
+        "Safety Index": "82.6",
+        "Health Care Index": "80.56"
+    },
+    "Slovenia": {
+        "Purchasing Power Index": "60.1",
+        "Safety Index": "70.4",
+        "Health Care Index": "72.11"
+    },
+    "South Africa": {
+        "Purchasing Power Index": "107.37",
+        "Safety Index": "23.32",
+        "Health Care Index": "61.33"
+    },
+    "Czech Republic": {
+        "Purchasing Power Index": "64.46",
+        "Safety Index": "65.88",
+        "Health Care Index": "61.99"
+    },
+    "Taiwan": {
+        "Purchasing Power Index": "74.17",
+        "Safety Index": "83.74",
+        "Health Care Index": "81.25"
+    },
+    "Portugal": {
+        "Purchasing Power Index": "54.59",
+        "Safety Index": "65.04",
+        "Health Care Index": "61.63"
+    },
+    "Puerto Rico": {
+        "Purchasing Power Index": "95.73",
+        "Safety Index": "29.47",
+        "Health Care Index": "58.98"
+    },
+    "Slovakia": {
+        "Purchasing Power Index": "54.24",
+        "Safety Index": "64.84",
+        "Health Care Index": "59.95"
+    },
+    "Lithuania": {
+        "Purchasing Power Index": "42.79",
+        "Safety Index": "65.39",
+        "Health Care Index": "70.79"
+    },
+    "Israel": {
+        "Purchasing Power Index": "73.52",
+        "Safety Index": "51.74",
+        "Health Care Index": "87.04"
+    },
+    "Hong Kong": {
+        "Purchasing Power Index": "81.17",
+        "Safety Index": "83.43",
+        "Health Care Index": "71.06"
+    },
+    "Poland": {
+        "Purchasing Power Index": "55.56",
+        "Safety Index": "61.07",
+        "Health Care Index": "57.81"
+    },
+    "Croatia": {
+        "Purchasing Power Index": "52.07",
+        "Safety Index": "67.75",
+        "Health Care Index": "50.03"
+    },
+    "Mexico": {
+        "Purchasing Power Index": "60.67",
+        "Safety Index": "43.77",
+        "Health Care Index": "72.12"
+    },
+    "Italy": {
+        "Purchasing Power Index": "75.76",
+        "Safety Index": "50.54",
+        "Health Care Index": "64.78"
+    },
+    "Panama": {
+        "Purchasing Power Index": "37.69",
+        "Safety Index": "51.54",
+        "Health Care Index": "82.41"
+    },
+    "Hungary": {
+        "Purchasing Power Index": "43.45",
+        "Safety Index": "66.28",
+        "Health Care Index": "51.02"
+    },
+    "Malaysia": {
+        "Purchasing Power Index": "71.79",
+        "Safety Index": "32.25",
+        "Health Care Index": "59.65"
+    },
+    "Uruguay": {
+        "Purchasing Power Index": "38.14",
+        "Safety Index": "55.03",
+        "Health Care Index": "57.18"
+    },
+    "Turkey": {
+        "Purchasing Power Index": "57.26",
+        "Safety Index": "64.8",
+        "Health Care Index": "71.87"
+    },
+    "India": {
+        "Purchasing Power Index": "62.71",
+        "Safety Index": "57.88",
+        "Health Care Index": "62.68"
+    },
+    "Chile": {
+        "Purchasing Power Index": "58.03",
+        "Safety Index": "59.72",
+        "Health Care Index": "61.51"
+    },
+    "Argentina": {
+        "Purchasing Power Index": "51.09",
+        "Safety Index": "40.71",
+        "Health Care Index": "78.26"
+    },
+    "Bosnia And Herzegovina": {
+        "Purchasing Power Index": "47.34",
+        "Safety Index": "56.74",
+        "Health Care Index": "54.54"
+    },
+    "Singapore": {
+        "Purchasing Power Index": "60.86",
+        "Safety Index": "80.02",
+        "Health Care Index": "58.82"
+    },
+    "Serbia": {
+        "Purchasing Power Index": "37.01",
+        "Safety Index": "58.77",
+        "Health Care Index": "55.55"
+    },
+    "Romania": {
+        "Purchasing Power Index": "36.35",
+        "Safety Index": "69.98",
+        "Health Care Index": "46.13"
+    },
+    "Greece": {
+        "Purchasing Power Index": "50.31",
+        "Safety Index": "50.24",
+        "Health Care Index": "50.4"
+    },
+    "Thailand": {
+        "Purchasing Power Index": "35.44",
+        "Safety Index": "59.47",
+        "Health Care Index": "94.73"
+    },
+    "Bulgaria": {
+        "Purchasing Power Index": "38.01",
+        "Safety Index": "58.53",
+        "Health Care Index": "54.63"
+    },
+    "Brazil": {
+        "Purchasing Power Index": "41.44",
+        "Safety Index": "37.38",
+        "Health Care Index": "57.58"
+    },
+    "Ecuador": {
+        "Purchasing Power Index": "25.99",
+        "Safety Index": "40.26",
+        "Health Care Index": "64.81"
+    },
+    "Georgia": {
+        "Purchasing Power Index": "29",
+        "Safety Index": "80.43",
+        "Health Care Index": "68.98"
+    },
+    "Colombia": {
+        "Purchasing Power Index": "29.44",
+        "Safety Index": "45.84",
+        "Health Care Index": "77.31"
+    },
+    "Ukraine": {
+        "Purchasing Power Index": "32.3",
+        "Safety Index": "51.05",
+        "Health Care Index": "47.89"
+    },
+    "China": {
+        "Purchasing Power Index": "42.41",
+        "Safety Index": "73.13",
+        "Health Care Index": "60.86"
+    },
+    "Philippines": {
+        "Purchasing Power Index": "25.98",
+        "Safety Index": "45.06",
+        "Health Care Index": "73.7"
+    },
+    "Russia": {
+        "Purchasing Power Index": "39.6",
+        "Safety Index": "47.61",
+        "Health Care Index": "39.34"
+    }
+}
